@@ -1,0 +1,44 @@
+[
+    {
+        "id": 10001,
+        "name": "碎石高手",
+        "scene": "Box",
+        "path": "",
+        "icon": "module/boxhall/textures/com_btn_suishigaoshou_n"
+    },
+    {
+        "id": 10002,
+        "name": "神射手",
+        "scene": "Archery",
+        "path": "",
+        "icon": "module/boxhall/textures/com_btn_shenjianshou_n"
+    },
+    {
+        "id": 10003,
+        "name": "弹跳之王",
+        "scene": "Jump",
+        "path": "",
+        "icon": "module/boxhall/textures/com_btn_tantiaozhiwang_n"
+    },
+    {
+        "id": 10004,
+        "name": "眼神挑战",
+        "scene": "Eyes",
+        "path": "",
+        "icon": "module/boxhall/textures/com_btn_yanshentiaozhan_n"
+    },
+    {
+        "id": 10005,
+        "name": "极限反应",
+        "scene": "Avoid",
+        "path": "",
+        "icon": "module/boxhall/textures/com_btn_jixianfanying_n"
+    },
+    {
+        "id": 10006,
+        "name": "跑酷达人",
+        "scene": "Parkour",
+        "path": "",
+        "icon": "module/boxhall/textures/com_btn_paokudaren_n"
+    }
+]

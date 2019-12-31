@@ -1,0 +1,12 @@
+{
+	"tvmaxcount": 10,
+	"freemaxcount": 6,
+	"sharemaxcount": 10,
+	"cashbonus": {
+		"maxcount": 5,
+		"lowcash": 100,
+		"maxcash": 500,
+		"cashpro": "24,45,26,3",
+		"cashnum": "1-100,200-3000,4000-7000,10000-20000"
+	}
+}
